@@ -5,7 +5,7 @@ buttons.forEach((btn)=>{
 console.log(btn)
 btn.addEventListener('mouseover', (e)=>{
  console.log(e)
- console.log(e.target)
+ console.log(e.target) //from where the event comes
 
  if (e.target.id === 'grey') {
     body.style.backgroundColor= e.target.id
