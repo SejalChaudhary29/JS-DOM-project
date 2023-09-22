@@ -3,7 +3,7 @@ const body = document.querySelector('body')
 
 buttons.forEach((btn)=>{
 console.log(btn)
-btn.addEventListener('click', (e)=>{
+btn.addEventListener('mouseover', (e)=>{
  console.log(e)
  console.log(e.target)
 
