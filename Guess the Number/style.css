@@ -41,9 +41,9 @@ body{
 .guessField{
     width: 20vw;
     padding: 5px;
-    border: none;
+    border: 7px solid grey;
    color: #303030;
-    border-radius: 10px;
+    border-radius: 3px;
     font-size: 14px;
 }
 .guessSubmit{
@@ -52,7 +52,7 @@ body{
     border: none;
     background-color: yellowgreen;
     border-radius: 10px;
-    border: 1px solid white;
+    
 }
 .result{
     /* background-color: blue; */
