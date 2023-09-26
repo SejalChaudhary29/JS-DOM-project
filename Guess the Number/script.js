@@ -71,7 +71,7 @@
         playGame = false
         newGame()
     }
-  });
+
 
    function newGame(){
   const newGameButton =   document.querySelector('#newGame')
@@ -88,6 +88,6 @@
 
 
   })
-   
+   }   
 
   
