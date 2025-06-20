@@ -1,0 +1,25 @@
+body{
+   text-align: center; 
+   background-color: gray;
+}
+.box{
+    width: 160px;
+    height: 150px;
+    margin: 10px;
+    border: 10px solid black;
+    border-radius: 20px;
+    background-color: rgb(237, 237, 117);
+}
+.box1{
+    background-color: rgb(92, 200, 233);
+}
+.box2{
+    background-color: rgb(229, 84, 108);
+}
+.box3{
+    background-color: rgb(93, 212, 93);
+}
+.box-container{
+display: flex;
+justify-content: center;
+}
